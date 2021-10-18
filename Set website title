@@ -1,0 +1,1 @@
+javascript:(function(){var title=prompt("Set title:");document.title=title})();
